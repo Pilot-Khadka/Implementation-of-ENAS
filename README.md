@@ -1,5 +1,6 @@
 # Implementation of Efficient Neural Architecture Search using parameter sharing
 ## in progress
+Original paper
 ```
 @inproceedings{enas,
   title     = {Efficient Neural Architecture Search via Parameter Sharing},
