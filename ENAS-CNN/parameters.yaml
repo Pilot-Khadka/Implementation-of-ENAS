@@ -1,0 +1,22 @@
+# Search space design params
+search_space_design:
+  kernel_size:
+    - 3
+    - 5
+    - 7
+  operation:
+    - 'Conv2d'
+    - 'AvgPool2d'
+    - 'MaxPool2d'
+  number_of_channels: []
+
+# Architecture Params
+sample_architecture:
+  number_of_samples: 10
+  max_len: 10
+  learning_rate: 0.001
+  validation_split: 0.33
+
+# Controller params
+controller_params:
+  LSTM_training_epoch: 8

@@ -3,3 +3,7 @@
 .ipynb_checkpoints/test-checkpoint.ipynb
 __pycache__/parameters.cpython-311.pyc
 __pycache__/parameters.cpython-38.pyc
+__pycache__/architecture.cpython-38.pyc
+__pycache__/controller.cpython-38.pyc
+__pycache__/vocab.cpython-38.pyc
+Test/__pycache__/vocab_test.cpython-38.pyc
